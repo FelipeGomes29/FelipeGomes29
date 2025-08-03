@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Felipe de Moraes Gomes  
+# 👋 Olá, eu sou o Felipe Gomes  
 
 ## 🛠️ Tecnologias e Ferramentas  
 
