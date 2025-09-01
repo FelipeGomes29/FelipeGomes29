@@ -1,4 +1,16 @@
+<div align="center">
+
 # 👋 Olá, eu sou o Felipe Gomes  
+
+💻 Estudante de **Tecnologia da Informação** | 🌍 Brasil  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGomes29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+
+</div>
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas  
 
@@ -14,6 +26,9 @@
 ## 📊 Status  
 
 <div align="center">
+## 📊 Status  
+
+<div align="center">
   
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeGomes29&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGomes29&layout=compact&theme=tokyonight)
@@ -22,7 +37,8 @@
 
 ---
 
-## 📚 Atualmente estou estudando sobre:  
+## 📚 Atualmente estou estudando  
+
 - **HTML**  
 - **CSS**  
 - **JavaScript**  
@@ -45,3 +61,7 @@ Gosto de transformar ideias em projetos reais, explorando sempre novas tecnologi
 - Desenvolver projetos práticos para o meu portfólio  
 
 ---
+
+✨ _"Sempre aprendendo algo novo."_  
+  
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeGomes29&show_ico_)
