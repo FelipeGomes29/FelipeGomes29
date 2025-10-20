@@ -60,8 +60,5 @@ Gosto de transformar ideias em projetos reais, explorando sempre novas tecnologi
 - Conquistar certificações na área de **Análise de Dados**, **Programação** e **Cloud**  
 - Desenvolver projetos práticos para o meu portfólio  
 
----
-
-✨ _"Sempre aprendendo algo novo."_  
-  
+---  
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeGomes29&show_ico_)
