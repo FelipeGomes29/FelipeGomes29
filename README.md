@@ -14,11 +14,11 @@
 
 ## 🛠️ Tecnologias e Ferramentas  
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
 </p>
 
 ---
@@ -26,12 +26,9 @@
 ## 📊 Status  
 
 <div align="center">
-## 📊 Status  
-
-<div align="center">
   
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeGomes29&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGomes29&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=FelipeGomes29&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGomes29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160em" />
 
 </div>
 
@@ -60,5 +57,10 @@ Gosto de transformar ideias em projetos reais, explorando sempre novas tecnologi
 - Conquistar certificações na área de **Análise de Dados**, **Programação** e **Cloud**  
 - Desenvolver projetos práticos para o meu portfólio  
 
----  
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeGomes29&show_ico_)
+---
+
+<div align="center">
+
+✨ _"Sempre aprendendo algo novo."_ ✨  
+
+</div>
