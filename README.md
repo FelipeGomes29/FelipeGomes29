@@ -46,7 +46,7 @@
 
 ## 🚀 Sobre mim  
 
-Sou estudante de **Tecnologia da Informação**, apaixonado por aprender e desenvolver novas habilidades na área de **programação**, **análise de dados** e **segurança cibernética**.  
+Sou estudante de **Tecnologia da Informação**, apaixonado por aprender e desenvolver novas habilidades na área de **programação** e **segurança cibernética**.  
 Gosto de transformar ideias em projetos reais, explorando sempre novas tecnologias.  
 
 ---
@@ -54,13 +54,8 @@ Gosto de transformar ideias em projetos reais, explorando sempre novas tecnologi
 ## 🎯 Objetivos  
 
 - Evoluir minhas habilidades em **desenvolvimento web** e **segurança cibernética**  
-- Conquistar certificações na área de **Análise de Dados**, **Programação** e **Cloud**  
+- Conquistar certificações na área de **Segurança**, **Programação** e **Cloud**  
 - Desenvolver projetos práticos para o meu portfólio  
-
----
-
-<div align="center">
-
-✨ _"Sempre aprendendo algo novo."_ ✨  
+ 
 
 </div>
