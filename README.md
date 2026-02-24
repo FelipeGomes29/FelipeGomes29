@@ -5,7 +5,9 @@
 💻 Estudante de **Tecnologia da Informação** | 🌍 Brasil  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGomes29)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-moraes-gomes-4b050925b/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-moraes-gomes-4b050925b)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fegomesmoraes2908@gmail.com)
 
 </div>
@@ -27,8 +29,8 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=FelipeGomes29&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGomes29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160em" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeGomes29&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeGomes29&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -56,4 +58,3 @@ Gosto de transformar ideias em projetos reais, explorando sempre novas tecnologi
 - Evoluir minhas habilidades em **desenvolvimento web** e **segurança cibernética**  
 - Conquistar certificações na área de **Segurança**, **Programação** e **Cloud**  
 - Desenvolver projetos práticos para o meu portfólio  
-
