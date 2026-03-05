@@ -47,7 +47,7 @@
 
 ## 🚀 Sobre mim  
 
-Sou estudante de **Tecnologia da Informação**, apaixonado por aprender e desenvolver novas habilidades na área de **programação** e **segurança cibernética**.  
+Sou dev web, apaixonado por aprender e desenvolver novas habilidades na área de **programação** e **segurança cibernética**.  
 Gosto de transformar ideias em projetos reais, explorando sempre novas tecnologias.  
 
 ---
