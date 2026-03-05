@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Felipe Gomes  
 
-💻 Estudante de **Tecnologia da Informação** | 🌍 Brasil  
+💻 desenvolvedor Web
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGomes29)
 
@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 ## 🛠️ Tecnologias e Ferramentas  
 
